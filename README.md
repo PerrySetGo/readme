@@ -31,9 +31,7 @@
 ## How can you best work with me?
 * Let's be timely & connect as humans for 1-2 minutes before we launch into work stuff when we meet! I want to know how you are!
 * Let's be clear when things are brainstorming and when they are concrete plans
-* I might not have thought things through if put on the spot. It's great if there is openness for me to return to questions later once i've mulled things over and understood the complexity of an issue.
-* I need to take notes during meetings, and may ask you to repeat things or explain them again. I am trying to process both what you are saying and its implications
-* Tell me when I did a good job! I will tell you because I want you to feel good about our work too!
+* I might not have thought things through if put on the spot. I will often return to things once i've mulled things over and understood the complexity of an issue.
 
 ## A few life mottos
 * Better a strong No than a week Yes.
@@ -45,9 +43,6 @@
 * Being presented with decisions as opposed to being involved in decisions
 * Inefficiency, especially combined with an unwillingness to see or hear my or
 others ideas for improvement.
-* Flakiness, consistently being inconsistent. I can tell the
-difference between this and an evolving process.
-* Dogmatic thinking, a resistance to reason and a reasonable conversation.
 * Needing to always be right. Let’s focus on the bigger picture instead!
 * Disorganization, lack of clarity, mess – both figurative and literal, i find it stressful and overwhelming.
 
@@ -58,4 +53,4 @@ difference between this and an evolving process.
 * I am quite wordy. This isn’t always helpful. For me it takes more time & effort to write something short than something long
 * I can be impatient, brusque. I may interrupt. I sometimes give un-asked-for advice (aka splaining, sorry in advance). 
 
-The best way to help me stop doing any of the above (or something I haven't identified) is to let me know how these things impact you.
+All of those traits are "under active development". The best way to help me stop doing them (or something I haven't identified) is to let me know how these things impact you negatively.
