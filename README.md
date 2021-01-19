@@ -34,7 +34,7 @@
 * I might not have thought things through if put on the spot. I will often return to things once i've mulled things over and understood the complexity of an issue.
 
 ## A few life mottos
-* Better a strong No than a week Yes.
+* Better a strong No than a weak Yes.
 * Feelings aren't facts. And facts aren't feelings. Both are important, but not always equally important for a given context.
 * I try to best to maximize the amount of work I don't have to do.
 
