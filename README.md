@@ -1,3 +1,8 @@
+Hi, I'm Perry. 👋 I run the Netlify support forums. I've been with Netlify since September 2018. Prior to that, I ran a code school, worked in student services, was a frontend developer, a project manager, and a buncha other tasks. :) I am a second generation technologist (my mother was a computer programmer who started in 1969). I currently live in Portland, Oregon and am originally from Europe.
+
+I use he/him or they/them pronouns
+
+
 ### What are your primary goals as a human being?
 
 * I aim to facilitate growth and learning in myself and in others. I see opportunity easily, and want to support those trying to reach their full potential
