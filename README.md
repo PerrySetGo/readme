@@ -32,6 +32,7 @@
 * Let's be timely & connect as humans for 1-2 minutes before we launch into work stuff when we meet! I want to know how you are!
 * Let's be clear when things are brainstorming and when they are concrete plans
 * I might not have thought things through if put on the spot. I will often return to things once i've mulled things over and understood the complexity of an issue.
+* Know that I am more of a big picture thinker than focused on minutae. I can be very detail oriented, but it is not necessarily my natural state. I will always be thinking about the larger context though - that is my natural state.
 
 ## A few life mottos
 * Better a strong No than a weak Yes.
