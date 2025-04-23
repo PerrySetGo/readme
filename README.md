@@ -1,4 +1,4 @@
-Hi, I'm Perry. 👋 I run the Netlify support forums. I've been with Netlify since September 2018. Prior to that, I ran a code school, worked in student services, was a frontend developer, a project manager, and a buncha other tasks. :) I am a second generation technologist (my mother was a computer programmer who started in 1969). I currently live in Portland, Oregon and am originally from Europe.
+Hi, I'm Perry. 👋  In my career, I've helped run a code school, worked in student services, was a frontend developer, a project manager, and a buncha other tasks. :) I am a second generation technologist (my mother was a computer programmer who started in 1969). I currently live in Portland, Oregon and am originally from Europe. I love cycling and being outdoors.
 
 I use he/him or they/them pronouns
 
@@ -6,7 +6,7 @@ I use he/him or they/them pronouns
 ### What are your primary goals as a human being?
 
 * I aim to facilitate growth and learning in myself and in others. I see opportunity easily, and want to support those trying to reach their full potential
-* I care deeply about equality supporting women, POC, LGBTQ people in tech and in life. Social causes & justice are important to me
+* I care deeply about equality supporting diversity and inclusion in tech and in life. Social causes & justice are important to me
 * I am passionate about understanding things deeply and seeing connection between things that often gets overlooked. I have a research mind.
 * I am naturally driven toward improvement.
 * I want you to feel good about yourself and about our work.
